@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**HEskandari/HEskandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://vistr.dev/badge?repo=HEskandari.HEskandari)](https://github.com/HEskandari)
+[![](https://img.shields.io/badge/-@hadi_es-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/hadi_es)
+[![](https://img.shields.io/badge/-@heskandari-%23181717?style=flat-square&logo=github)](https://github.com/heskandari)
+[![](https://img.shields.io/badge/-heskandari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heskandari/)](https://www.linkedin.com/in/shreyasjejurkar/)
 
-Here are some ideas to get you started:
+🧑🏼‍💻 Software Ninjaneer at Particular Software<br />
+🤝🏼 Open-source contributor<br/>
+✍🏼 My personal blog - https://www.seesharpsoftware.com.au/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEskandari&count_private=true&show_icons=true&theme=vue&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEskandari&layout=compact&theme=vue)
