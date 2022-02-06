@@ -11,4 +11,4 @@
 
 ![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEskandari&count_private=true&show_icons=true&theme=vue&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEskandari&layout=compact&theme=vue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEskandari&layout=compact&theme=vue&langs_count=8)
