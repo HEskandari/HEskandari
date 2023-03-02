@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-heskandari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heskandari/)](https://www.linkedin.com/in/heskandari/)
 [![](https://img.shields.io/badge/-seesharp.photography-%23181717?style=flat-square&logo=instagram)](https://www.instagram.com/seesharp.photography)
 
-🧑🏼‍💻 Software Ninjaneer at Particular Software<br />
+🧑🏼‍💻 Software Ninjaneer<br />
 🤝🏼 Open-source contributor<br/>
 ✍🏼 My personal blog - https://www.seesharpsoftware.com.au/ <br/>
 📷 My photographs - https://photography.seesharpsoftware.com.au/ <br/>
