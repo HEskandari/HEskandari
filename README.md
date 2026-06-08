@@ -9,6 +9,6 @@
 ✍🏼 My personal blog - https://www.seesharpsoftware.com.au/ <br/>
 📷 My photographs - https://photography.seesharpsoftware.com.au/ <br/>
 
-![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEskandari&count_private=true&show_icons=true&theme=vue&include_all_commits=true)
+![Hadi's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=HEskandari&count_private=true&show_icons=true&theme=vue&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEskandari&layout=compact&theme=vue&langs_count=8)
+![Top Languages](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=HEskandari&layout=compact&theme=vue&langs_count=8)
